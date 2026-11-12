@@ -3,7 +3,7 @@
 exports.description = "PSD cached server-side support for HFS - converts PSD composite image to JPG on the fly for preview with Show and generates thumbnails"
 exports.version = 1.1
 exports.apiRequired = 12.6
-exports.repo = "yourname/PSD-Support"
+exports.repo = "Hug3O/PSD-Support"
 exports.preview = []
 
 exports.config = {
