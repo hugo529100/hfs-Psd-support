@@ -4,7 +4,6 @@ exports.description = "PSD cached server-side support for HFS - converts PSD com
 exports.version = 1.1
 exports.apiRequired = 12.6
 exports.repo = "hugo529100/hfs-Psd-support"
-
 exports.preview = []
 
 exports.config = {
